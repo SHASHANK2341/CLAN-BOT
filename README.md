@@ -151,4 +151,4 @@ https://user-images.githubusercontent.com/68145571/150640306-d643f59a-c977-43ae-
 
 # ✌️ Credits
 
-> If consider using this Bot, make sure to credit me!
+> If consider using this Bot, make sure to credit Tomato6966 sir!
